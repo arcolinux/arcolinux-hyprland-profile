@@ -4,7 +4,7 @@
 export XDG_CURRENT_DESKTOP=hyprland
 export XDG_SESSION_DESKTOP=hyprland
 
-export XDG_SESSION_TYPE=wayland
+# export XDG_SESSION_TYPE=wayland
 
 # Ubuntu Sway specific config dir
 # export XDG_CONFIG_DIRS=/etc/xdg
